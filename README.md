@@ -1,1 +1,3 @@
 # SensorsProject
+
+Código acelerômetro
